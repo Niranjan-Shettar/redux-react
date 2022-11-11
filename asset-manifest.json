@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Niranjan-Shettar/redux-react.git/static/css/main.6235d677.css",
+    "main.js": "/Niranjan-Shettar/redux-react.git/static/js/main.551a0272.js",
+    "index.html": "/Niranjan-Shettar/redux-react.git/index.html",
+    "main.6235d677.css.map": "/Niranjan-Shettar/redux-react.git/static/css/main.6235d677.css.map",
+    "main.551a0272.js.map": "/Niranjan-Shettar/redux-react.git/static/js/main.551a0272.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6235d677.css",
+    "static/js/main.551a0272.js"
+  ]
+}
